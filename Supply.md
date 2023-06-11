@@ -1,3 +1,5 @@
+# what's your feature?
+# what is the world like in your view?
 ## supply something to the society
 
 ### publish things in the internet.
@@ -5,8 +7,9 @@
 	life.
 	tech.
 	children's programming
-### learn English
-	speak and write.
+### learn language
+	speak and write in English.
+	speak Shanghai's language.
 ### work in enterprise and supply wisdom and skills
 	> learn machine learning and chatGPT
 	> learn go and some other language to adapt to more scenarios.
